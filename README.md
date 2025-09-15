@@ -1,8 +1,7 @@
 # Sales Performance Dashboard
 
+<img width="1034" height="524" alt="image" src="https://github.com/user-attachments/assets/3b531572-de0d-4759-a2f6-bce8f780dc29" />
 
-![Power BI](https://img.shields.io/badge/Tool-Power%20BI-blue)
-![Dataset](https://img.shields.io/badge/Dataset-Synthetic-green)
 
 
 ## Overview

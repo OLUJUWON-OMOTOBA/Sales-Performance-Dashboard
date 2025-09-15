@@ -2,6 +2,9 @@
 
 <img width="1034" height="524" alt="image" src="https://github.com/user-attachments/assets/3b531572-de0d-4759-a2f6-bce8f780dc29" />
 
+##Total Sales by Country
+
+<img width="866" height="523" alt="image" src="https://github.com/user-attachments/assets/1cf32014-e226-41ec-aae2-6fd281412f94" />
 
 
 ## Overview

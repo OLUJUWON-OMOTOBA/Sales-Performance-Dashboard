@@ -1,16 +1,16 @@
 # Sales Performance Dashboard
 
+## Overview
+A sample end-to-end Business Intelligence project demonstrating sales analytics using Power BI. The report covers revenue trends, product & region performance, and top-performing sales reps. This project is designed to showcase data modeling, time intelligence, and stakeholder-focused visualization.
+
 <img width="1034" height="524" alt="image" src="https://github.com/user-attachments/assets/3b531572-de0d-4759-a2f6-bce8f780dc29" />
 
 ##Total Sales by Country
 
 <img width="866" height="523" alt="image" src="https://github.com/user-attachments/assets/1cf32014-e226-41ec-aae2-6fd281412f94" />
 
-
-## Overview
-
-
-A sample end-to-end Business Intelligence project demonstrating sales analytics using Power BI. The report covers revenue trends, product & region performance, and top-performing sales reps. This project is designed to showcase data modeling, time intelligence, and stakeholder-focused visualization.
+##Monthly Total Sales
+<img width="896" height="523" alt="image" src="https://github.com/user-attachments/assets/e15d7a82-6622-4512-ace3-23d93b233fc5" />
 
 
 ## What’s included
@@ -31,22 +31,22 @@ A sample end-to-end Business Intelligence project demonstrating sales analytics 
 - Example DAX for YTD and YoY calculations
 
 
-## Suggested Power BI build steps
+## Power BI build steps
 
 
-1. Import `sales_data.csv` into Power BI Desktop.
-2. In Power Query, convert `order_date` to Date type and clean columns.
-3. Create a Date (Calendar) dimension table and mark it as a Date table.
-4. Build a star schema: Sales (fact) → Date (dimension).
-5. Create the following visuals:
+1. Imported `sales_data.csv` into Power BI Desktop.
+2. In Power Query, converted `order_date` to Date type and clean columns.
+3. Created a Date (Calendar) dimension table and mark it as a Date table.
+4. Built a star schema: Sales (fact) → Date (dimension).
+5. Created the following visuals:
 - Line chart — Total Revenue by Month
 - Clustered bar — Revenue by Region and Product
 - KPI cards — Total Revenue, Revenue Growth (YoY)
 - Table — Top 10 Sales Reps by Revenue
-6. Add slicers for Region, Product, and Sales Rep for interactive filtering.
+6. Added slicers for Region, Product, and Sales Rep for interactive filtering.
 
 
-## Example DAX snippets
+## DAX snippets
 
 
 ```dax

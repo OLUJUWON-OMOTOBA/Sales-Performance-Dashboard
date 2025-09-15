@@ -5,11 +5,11 @@ A sample end-to-end Business Intelligence project demonstrating sales analytics 
 
 <img width="1034" height="524" alt="image" src="https://github.com/user-attachments/assets/3b531572-de0d-4759-a2f6-bce8f780dc29" />
 
-##Total Sales by Country
+## Total Sales by Country
 
 <img width="866" height="523" alt="image" src="https://github.com/user-attachments/assets/1cf32014-e226-41ec-aae2-6fd281412f94" />
 
-##Monthly Total Sales
+## Monthly Total Sales
 <img width="896" height="523" alt="image" src="https://github.com/user-attachments/assets/e15d7a82-6622-4512-ace3-23d93b233fc5" />
 
 

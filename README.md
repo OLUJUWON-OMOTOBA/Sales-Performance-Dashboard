@@ -12,6 +12,9 @@ A sample end-to-end Business Intelligence project demonstrating sales analytics 
 ## Monthly Total Sales
 <img width="896" height="523" alt="image" src="https://github.com/user-attachments/assets/e15d7a82-6622-4512-ace3-23d93b233fc5" />
 
+## Key Influencers in Numerical and Non-Numerical Variables
+<img width="1032" height="523" alt="image" src="https://github.com/user-attachments/assets/be96e0ca-2a33-4d20-b100-8696f4c3a26c" />
+
 
 ## What’s included
 
